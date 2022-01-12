@@ -398,13 +398,14 @@ section {
 }
 
 .skills .progress .skill {
-  padding: 10px 140px;
+  padding: 10px 3px;
   margin: 5px 0 6px 5px;
   text-transform: uppercase;
   display: block;
   font-weight: 900;
   font-family: "Poppins", sans-serif;
   color: #050d18;
+  text-align: center;
 }
 
 .skills .progress .skill .val {
