@@ -399,7 +399,7 @@ section {
 
 .skills .progress .skill {
   padding: 10px 140px;
-  margin: 0 0 6px 0;
+  margin: 5px 0 6px 5px;
   text-transform: uppercase;
   display: block;
   font-weight: 900;
